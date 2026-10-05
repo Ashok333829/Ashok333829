@@ -1,4 +1,3 @@
-# 💫 About Me:
 👋 Hi, I'm Ashok vikramaditya Tagarampudi  <br>  AWS DevOps Engineer | Cloud & Automation Enthusiast<br><br> I'm an aspiring DevOps Engineer passionate about cloud computing, <br> automation, CI/CD, and building reliable application deployments.<br> <br> ☁️ AWS: EC2, S3, EBS, EFS, IAM, VPC<br>🐧 Linux: Shell/Bash, Server Administration<br>🔧 DevOps: Git, GitHub, Jenkins, Docker<br>☸️ Container & Orchestration: Docker, Kubernetes<br>🔄 CI/CD: Jenkins & GitHub workflows<br>🏗️ Infrastructure as Code: Terraform<br>🌐 Web Servers: Apache HTTPD, Tomcat<br>💻 Scripting: Bash, basic Python<br>📊 Monitoring: Grafana, prometheus, CloudWatch .<br><br>📌Every Day responsibility and Goals<br><br>→ Build real-world DevOps projects<br>→ Automate deployment processes<br>→ Improve cloud infrastructure skills<br>→ Learn and implement DevOps best practices
 
 
